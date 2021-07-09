@@ -16,7 +16,7 @@
 	justify-content: center;
 	overflow: hidden;
 	flex-direction: row-reverse;
-	height: 150px;
+	height: 40px;
 	position: relative;
   }
   
@@ -118,7 +118,7 @@
   }
   
   .feedback {
-	max-width: 360px;
+	max-width: 400px;
 	
 	background-color: rgb(245, 241, 242);
 	
@@ -126,6 +126,7 @@
 	padding: 0px;
 	border-radius: 8px;
 	display: flex;
+	height: auto;
 	
 	flex-direction: column;
 	flex-wrap: wrap;
